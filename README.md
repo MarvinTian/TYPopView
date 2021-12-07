@@ -1,14 +1,14 @@
-##TYPopView
+## TYPopView
 一款简单的文本弹窗
 
-###演示效果
+### 演示效果
 ![demoGif.gif](https://github.com/MarvinTian/TYPopView/blob/main/demoGif.gif)
-###一.安装
+### 一.安装
 `
 pod install 'TYPopView'
 `
 
-###二.使用
+### 二.使用
 TYPopView作为基础组件，用户基础业务组件继承TYPopView.
 ```
 ExamplePopView *popView = [[ExamplePopView alloc]initWithTopic:[[NSAttributedString alloc]initWithString:@"标题" attributes:@{
