@@ -2,7 +2,7 @@
 一款简单的文本弹窗
 
 ###演示效果
-![demoGif.gif]
+![demoGif.gif](https://github.com/MarvinTian/TYPopView/blob/main/demoGif.gif)
 ###一.安装
 `
 pod install 'TYPopView'
